@@ -16,4 +16,4 @@ Unsupervised machine learning was used to analyze which cryptocurrencies are on 
 
 ### hvplot.scatter that shows the CoinName when hovering over the data point
 
-![Challenge_hvplot_scatter](https://user-images.githubusercontent.com/90982811/155369952-4c13253d-16a9-468f-8e88-23b1c95e30e1.jpg)
+![Challenge_hvplot_scatter](https://user-images.githubusercontent.com/90982811/155370182-def6d082-e219-488b-8c79-a8e03aabd7d1.jpg)
